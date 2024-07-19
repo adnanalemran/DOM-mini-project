@@ -1,0 +1,40 @@
+.OutputCanvas {
+  width: 95%;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: coral;
+  color: white;
+  margin: auto;
+
+  margin-top: 10px;
+}
+.canvas {
+  margin: auto;
+  width: 95%;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: coral;
+  color: white;
+}
+
+textarea {
+  width: 99%;
+}
+.inputCunvas {
+  border-radius: 10px;
+  margin-top: 5px;
+  padding: 1%;
+  width: 98%;
+}
+.inputCunvas:focus {
+  background-color: rgb(255, 252, 221);
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.out {
+  border-radius: 5px;
+  padding: 6px;
+}
